@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="reconfigurando o projeto web">
+    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="versão lançamento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/FontManifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686589040908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="versão lançamento">
+      <created>1686593042175</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686593042175</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +109,7 @@
     <MESSAGE value="otimizando o tamanho do app final" />
     <MESSAGE value="adicionando loading" />
     <MESSAGE value="reconfigurando o projeto web" />
-    <option name="LAST_COMMIT_MESSAGE" value="reconfigurando o projeto web" />
+    <MESSAGE value="versão lançamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="versão lançamento" />
   </component>
 </project>
