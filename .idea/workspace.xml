@@ -4,13 +4,31 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="adicionando loading" />
+    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="reconfigurando o projeto web">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/FontManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvaskit/profiling/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -28,7 +46,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/marcos.santos@VALEMOBI.CORP/Documentos/learning/cafe_flutter",
+    "last_opened_file_path": "/home/marcos.santos@VALEMOBI.CORP/Documentos/learning/cafe_flutter/build/web",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -62,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686579498912</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reconfigurando o projeto web">
+      <created>1686588936530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686588936530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="reconfigurando o projeto web">
+      <created>1686589040908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686589040908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="otimizando o tamanho do app final" />
     <MESSAGE value="adicionando loading" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando loading" />
+    <MESSAGE value="reconfigurando o projeto web" />
+    <option name="LAST_COMMIT_MESSAGE" value="reconfigurando o projeto web" />
   </component>
 </project>
