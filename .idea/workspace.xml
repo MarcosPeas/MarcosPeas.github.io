@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="versão lançamento">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="versão lançamento v2">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686593042175</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="versão lançamento v2">
+      <created>1686593241549</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686593241549</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +116,7 @@
     <MESSAGE value="adicionando loading" />
     <MESSAGE value="reconfigurando o projeto web" />
     <MESSAGE value="versão lançamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="versão lançamento" />
+    <MESSAGE value="versão lançamento v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="versão lançamento v2" />
   </component>
 </project>
