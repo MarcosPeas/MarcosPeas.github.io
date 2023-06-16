@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="versão lançamento v2">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d727053f-4124-4e62-bb4b-5ab6de7f815b" name="Changes" comment="versão lançamento v3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686593241549</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="versão lançamento v3">
+      <created>1686593346899</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686593346899</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +122,7 @@
     <MESSAGE value="reconfigurando o projeto web" />
     <MESSAGE value="versão lançamento" />
     <MESSAGE value="versão lançamento v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="versão lançamento v2" />
+    <MESSAGE value="versão lançamento v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="versão lançamento v3" />
   </component>
 </project>
